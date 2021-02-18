@@ -15,6 +15,7 @@ public class WordManager : MonoBehaviour
     {
         ReadTxt();
         selectedWord = WordSelector().ToUpper();
+        GameManager.instance.SetChosenWord(selectedWord);
         SetLetters(selectedWord);
     }
 

@@ -29,12 +29,12 @@ public class ForcaManager : MonoBehaviour
                 {
                     if (tryManager.Miss())
                     {
-                        Debug.Log("PERDEU");
+                        GameManager.instance.LoadScene("EndLose");
                     }
                 }
                 if (wordManagerScript.CorrectWord())
                 {
-                    Debug.Log("GANHOU");
+                    GameManager.instance.LoadScene("EndWin");
                 }
             }
         }
