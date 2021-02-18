@@ -259,9 +259,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Cr\xE9ditos:\n\nDesenvolvimento:\n\nEu\n\n\nNomes e marca Pok\xE9mon:\n\nPok\xE9mon
-    Company\n\n\nAgradecimentos especiais:\n\nPara a playlist de aberturas de Gundam.\n\n\nPara
-    a galera do Discord.\n\n\nFeito para a disciplina PBCJ - Q1 - 2021"
+  m_Text: "Cr\xE9ditos:\n\nDesenvolvimento:\n\nAndr\xE9 Aranovich Florentino - RA:
+    11011716\n\n\nNomes e marca Pok\xE9mon:\n\nPok\xE9mon Company\n\n\nAgradecimentos
+    especiais:\n\nPara a playlist de aberturas de Gundam.\n\n\nPara a galera do Discord.\n\n\nFeito
+    para a disciplina PBCJ - Q1 - 2021"
 --- !u!222 &454678613
 CanvasRenderer:
   m_ObjectHideFlags: 0
